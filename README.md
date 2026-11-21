@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A1B33,60:0B2E62,100:38BEE8&height=112&width=1000&section=header&text=BenjaminBinTech&fontSize=36&fontColor=ffffff&animation=twinkling&fontAlignY=45&desc=Systems%20Engineer%20%C2%B7%20Architect%20%C2%B7%20Full-Stack&descAlignY=67&descSize=12" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A1B33,60:0B2E62,100:38BEE8&height=100&width=1000&section=header&text=BenjaminBinTech&fontSize=36&fontColor=ffffff&animation=twinkling&fontAlignY=45&desc=Systems%20Engineer%20%C2%B7%20Architect%20%C2%B7%20Full-Stack&descAlignY=67&descSize=12" alt="header" />
 </div>
 
 <div align="center">
@@ -34,8 +34,3 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:38BEE8,55:0B2E62,100:0A1B33&height=48&width=1000&section=footer" alt="footer" />
 </div>
-
-<!--
-  配色取自 Novordoc logo
-  深底 #0A1B33  衬底 #08152A  边框 #1E4A7A  主色 #38BEE8  文字 #C5D3E3
--->
