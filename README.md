@@ -3,10 +3,6 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=15&pause=800&color=38BEE8&center=true&vCenter=true&width=560&height=26&lines=Design+the+system.+Then+make+it+last.;Go+%C2%B7+Java+%C2%B7+C%2B%2B+%C2%B7+TypeScript;Systems+%7C+Architecture+%7C+Full-Stack" alt="typing" />
-</div>
-
-<div align="center">
   <a href="https://github.com/903174293"><img src="https://img.shields.io/github/followers/903174293?style=for-the-badge&logo=github&labelColor=08152A&color=38BEE8" alt="followers" /></a>
   <a href="https://github.com/903174293?tab=repositories"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2F903174293&query=%24.public_repos&style=for-the-badge&logo=github&logoColor=38BEE8&label=REPOS&labelColor=08152A&color=38BEE8" alt="repos" /></a>
   <img src="https://img.shields.io/badge/Hong%20Kong-Founder%20%40%20Novorder-08152A?style=for-the-badge&logo=googlemaps&logoColor=38BEE8&labelColor=08152A" alt="location" />
