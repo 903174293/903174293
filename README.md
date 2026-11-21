@@ -20,7 +20,7 @@
 
 <p align="center">
   Build systems end to end — infrastructure, services, and the interface on top.<br/>
-  Maintaining <b><a href="https://github.com/Novordoc">Novordoc</a></b> · Based in China
+  Maintaining <a href="https://github.com/Novordoc"><img src="./assets/novordoc-logo.png" height="26" valign="middle" alt="Novordoc" /></a> <b><a href="https://github.com/Novordoc">Novordoc</a></b> · Based in China
 </p>
 
 <p align="center">
@@ -40,5 +40,3 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c9a7,55:1e3a5f,100:0b1220&height=100&section=footer" alt="footer" />
 </div>
-
-> （注：部分内容由豆包 AI 生成）
