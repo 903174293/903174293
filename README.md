@@ -28,5 +28,5 @@
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:38BEE8,55:0B2E62,100:0A1B33&height=48&width=1000&section=footer" alt="footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:38BEE8,55:0B2E62,100:0A1B33&height=70&width=1000&section=footer" alt="footer" />
 </div>
