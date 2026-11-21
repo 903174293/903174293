@@ -41,4 +41,3 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c9a7,55:1e3a5f,100:0b1220&height=100&section=footer" alt="footer" />
 </div>
 
-> （注：部分内容由豆包 AI 生成）
