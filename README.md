@@ -23,8 +23,8 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=903174293&show_icons=true&include_all_commits=true&count_private=true&bg_color=0A1B33&border_color=1E4A7A&title_color=000000&icon_color=000000&text_color=000000&rank_icon=github&card_width=450" height="145" alt="stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=903174293&layout=compact&langs_count=6&bg_color=0A1B33&border_color=1E4A7A&title_color=000000&text_color=000000&card_width=380" height="145" alt="langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=903174293&show_icons=true&include_all_commits=true&count_private=true&bg_color=ffffff&border_color=1E4A7A&title_color=000000&icon_color=000000&text_color=000000&rank_icon=github&card_width=450" height="145" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=903174293&layout=compact&langs_count=6&bg_color=ffffff&border_color=1E4A7A&title_color=000000&text_color=000000&card_width=380" height="145" alt="langs" />
 </div>
 
 <div align="center">
