@@ -1,6 +1,6 @@
 <!--
   GitHub Profile README — compact edition
-  用法：BenjaminBinTech/BenjaminBinTech 仓库，Public，粘贴为 README.md。
+  用法：903174293/903174293 仓库，Public，粘贴为 README.md。
   主色 #00c9a7 / 深底 #0b1220，要换色全局替换这两个值。
 -->
 
@@ -13,14 +13,14 @@
 </div>
 
 <p align="center">
-  <a href="https://github.com/BenjaminBinTech"><img src="https://img.shields.io/github/followers/BenjaminBinTech?style=for-the-badge&logo=github&labelColor=0b1220&color=00c9a7" alt="followers" /></a>
-  <a href="https://github.com/BenjaminBinTech?tab=repositories"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FBenjaminBinTech&query=%24.public_repos&style=for-the-badge&logo=github&logoColor=00c9a7&label=REPOS&labelColor=0b1220&color=00c9a7" alt="repos" /></a>
-  <img src="https://komarev.com/ghpvc/?username=BenjaminBinTech&style=for-the-badge&color=0b1220&label=VIEWS" alt="views" />
+  <a href="https://github.com/903174293"><img src="https://img.shields.io/github/followers/903174293?style=for-the-badge&logo=github&labelColor=0b1220&color=00c9a7" alt="followers" /></a>
+  <a href="https://github.com/903174293?tab=repositories"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2F903174293&query=%24.public_repos&style=for-the-badge&logo=github&logoColor=00c9a7&label=REPOS&labelColor=0b1220&color=00c9a7" alt="repos" /></a>
+  <img src="https://komarev.com/ghpvc/?username=903174293&style=for-the-badge&color=0b1220&label=VIEWS" alt="views" />
 </p>
 
 <p align="center">
   Build systems end to end — infrastructure, services, and the interface on top.<br/>
-  Maintaining <a href="https://github.com/Novordoc"><img src="novordoc-logo.jpg" height="26" valign="middle" alt="Novordoc" /></a> <b><a href="https://github.com/Novordoc"></a></b> · Based in HK
+  Maintaining <a href="https://github.com/Novordoc"><img src="./novordoc-logo.jpg" height="26" valign="middle" alt="Novordoc" /></a> <b><a href="https://github.com/Novordoc"></a></b> · Based in Hong Kong
 </p>
 
 <p align="center">
@@ -33,10 +33,12 @@
 </p>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BenjaminBinTech&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=0b1220&title_color=00c9a7&icon_color=00c9a7&text_color=c9d1d9&card_width=420" height="150" alt="stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BenjaminBinTech&layout=compact&hide_border=true&langs_count=6&bg_color=0b1220&title_color=00c9a7&text_color=c9d1d9&card_width=330" height="150" alt="langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=903174293&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=0b1220&title_color=00c9a7&icon_color=00c9a7&text_color=c9d1d9&card_width=420" height="150" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=903174293&layout=compact&hide_border=true&langs_count=6&bg_color=0b1220&title_color=00c9a7&text_color=c9d1d9&card_width=330" height="150" alt="langs" />
 </div>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c9a7,55:1e3a5f,100:0b1220&height=100&section=footer" alt="footer" />
 </div>
+
+> （注：部分内容由豆包 AI 生成）
