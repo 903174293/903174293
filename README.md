@@ -14,7 +14,7 @@
 </div>
 
 <div align="center">
-  Build systems end to end — infrastructure, services, and the interface on top.<br/>
+  Integration of Technical Resources on Cloud Infrastructure, AI, and Blockchain<br/>
   Maintaining <a href="https://github.com/Novordoc"><img src="./novordoc-logo.jpg" height="20" valign="middle" alt="Novordoc" /></a> <b><a href="https://github.com/Novordoc"></a></b> — a knowledge base built for the long run
 </div>
 
