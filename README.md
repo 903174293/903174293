@@ -20,7 +20,7 @@
 
 <p align="center">
   Build systems end to end — infrastructure, services, and the interface on top.<br/>
-  Maintaining <a href="https://github.com/Novordoc"><img src="./assets/novordoc-logo.png" height="26" valign="middle" alt="Novordoc" /></a> <b><a href="https://github.com/Novordoc">Novordoc</a></b> · Based in China
+  Maintaining <a href="https://github.com/Novordoc"><img src="novordoc-logo.jpg" height="26" valign="middle" alt="Novordoc" /></a> <b><a href="https://github.com/Novordoc">Novordoc</a></b> · Based in China
 </p>
 
 <p align="center">
