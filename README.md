@@ -15,11 +15,11 @@
 </div>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Go-ffffff?style=for-the-badge&logo=go&logoColor=000000" height="30" />
+  <img src="https://img.shields.io/badge/Go-ffffff?style=for-the-badge&logo=go" height="30" />
   <img src="https://img.shields.io/badge/Java-ffffff?style=for-the-badge&logo=openjdk&logoColor=000000" height="30" />
   <img src="https://img.shields.io/badge/C%2B%2B-ffffff?style=for-the-badge&logo=cplusplus&logoColor=000000" height="30" />
-  <img src="https://img.shields.io/badge/TypeScript-ffffff?style=for-the-badge&logo=typescript&logoColor=000000" height="30" />
-  <img src="https://img.shields.io/badge/Python-ffffff?style=for-the-badge&logo=python&logoColor=000000" height="30" />
+  <img src="https://img.shields.io/badge/TypeScript-ffffff?style=for-the-badge&logo=typescript" height="30" />
+  <img src="https://img.shields.io/badge/Python-ffffff?style=for-the-badge&logo=python" height="30" />
   <img src="https://img.shields.io/badge/Solidity-ffffff?style=for-the-badge&logo=solidity&logoColor=000000" height="30" />
 </div>
 
