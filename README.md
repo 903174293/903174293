@@ -1,4 +1,4 @@
-<div style="background-color: #ffffff; width: 100%; padding: 20px 0;">
+<div style="background-color: #ffffff; width: 100%; padding: 20px 0;position:fixed:bottom:0">
 <div align="center">
    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b1220,55:1e3a5f,100:00c9a7&height=160&section=header&text=BenjaminBinTech&fontSize=46&fontColor=ffffff&animation=twinkling&fontAlignY=36&desc=Systems%20Engineer%20%C2%B7%20Architect%20%C2%B7%20Full-Stack%20Engineer&descAlignY=57&descSize=14" alt="header" />
 </div>
@@ -11,7 +11,7 @@
 </div>
 
 <div align="center">
-  <br>Integration of Technical Resources on Cloud Infrastructure | AI | Blockchain<br/>
+  <br><span style="color:#38BEE8; font-weight:bold; font-size:16px;">Integration of Technical Resources on Cloud Infrastructure | AI | Blockchain</span><br/>
 </div>
 
 <div align="center">
